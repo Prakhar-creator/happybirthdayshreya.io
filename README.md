@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://prakhar-creator.github.io/happybirthdayparul/)
+[Demo](https://github.com/Prakhar-creator/happybirthdayshreya.io)
 
 ## 🚀 How to Use
 
@@ -8,7 +8,7 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone https://github.com/prakhar-creator/happybirthdayparul
+    $ git clone https://github.com/prakhar-creator/happybirthdayshreya.io
 
     # Go into the repository
     $ cd happybirthdayparul
